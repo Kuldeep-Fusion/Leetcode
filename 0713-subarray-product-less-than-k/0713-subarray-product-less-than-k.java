@@ -6,7 +6,8 @@ class Solution {
             //window grow
             p = p*nums[ei];
             //windoe shrink
-            while(p >= k){p = p/ nums[si];
+            while(p >= k && si <= ei){
+             p = p/ nums[si];
             si++;
             }
         //update ans
