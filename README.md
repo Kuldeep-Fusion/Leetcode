@@ -9,6 +9,7 @@ JAVA DSA
 | [0039-combination-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0039-combination-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0713-subarray-product-less-than-k](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,4 +85,16 @@ JAVA DSA
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0148-sort-list) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
