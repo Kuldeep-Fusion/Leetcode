@@ -23,10 +23,10 @@ class Solution {
                     Dummy = Dummy.next;
                 }
                  start = head;
+                  Dummy.next = null;
             }
            
-           
-             Dummy.next = null;
+            
         }
         if(!st.isEmpty()){
             Dummy.next = start;
