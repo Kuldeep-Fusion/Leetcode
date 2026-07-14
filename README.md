@@ -121,6 +121,7 @@ JAVA DSA
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
@@ -131,6 +132,7 @@ JAVA DSA
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -147,5 +149,6 @@ JAVA DSA
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
