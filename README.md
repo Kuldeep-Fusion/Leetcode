@@ -35,6 +35,7 @@ JAVA DSA
 | [0020-valid-parentheses](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
@@ -53,6 +54,7 @@ JAVA DSA
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -118,6 +120,7 @@ JAVA DSA
 | [0101-symmetric-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -129,6 +132,7 @@ JAVA DSA
 | [0101-symmetric-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -146,6 +150,7 @@ JAVA DSA
 | [0101-symmetric-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
