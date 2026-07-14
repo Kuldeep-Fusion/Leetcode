@@ -115,10 +115,12 @@ JAVA DSA
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0101-symmetric-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0101-symmetric-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -127,4 +129,5 @@ JAVA DSA
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0101-symmetric-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
