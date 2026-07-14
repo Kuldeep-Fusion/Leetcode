@@ -115,19 +115,23 @@ JAVA DSA
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0112-path-sum) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0112-path-sum) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0112-path-sum) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
