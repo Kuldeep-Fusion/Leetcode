@@ -29,6 +29,7 @@ JAVA DSA
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -132,6 +133,7 @@ JAVA DSA
 | [0700-search-in-a-binary-search-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -145,6 +147,7 @@ JAVA DSA
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -167,6 +170,7 @@ JAVA DSA
 | [0700-search-in-a-binary-search-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -174,4 +178,5 @@ JAVA DSA
 | [0450-delete-node-in-a-bst](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
