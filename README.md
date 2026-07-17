@@ -119,6 +119,7 @@ JAVA DSA
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0113-path-sum-ii) |
@@ -134,6 +135,7 @@ JAVA DSA
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0113-path-sum-ii) |
@@ -152,6 +154,7 @@ JAVA DSA
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0113-path-sum-ii) |
@@ -167,6 +170,7 @@ JAVA DSA
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
