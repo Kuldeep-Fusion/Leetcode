@@ -9,6 +9,7 @@ JAVA DSA
 | [0039-combination-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0039-combination-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Backtracking
@@ -72,6 +73,7 @@ JAVA DSA
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
@@ -83,6 +85,7 @@ JAVA DSA
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -122,6 +125,7 @@ JAVA DSA
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -159,6 +163,7 @@ JAVA DSA
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
