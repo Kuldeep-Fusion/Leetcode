@@ -31,6 +31,7 @@ JAVA DSA
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -207,4 +208,12 @@ JAVA DSA
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
