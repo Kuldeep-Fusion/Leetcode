@@ -12,6 +12,7 @@ JAVA DSA
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Backtracking
 |  |
@@ -70,6 +71,7 @@ JAVA DSA
 | [0141-linked-list-cycle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -77,6 +79,7 @@ JAVA DSA
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +97,7 @@ JAVA DSA
 | ------- |
 | [0148-sort-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -101,6 +105,7 @@ JAVA DSA
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
