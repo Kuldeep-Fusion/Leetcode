@@ -59,6 +59,7 @@ JAVA DSA
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -91,6 +92,7 @@ JAVA DSA
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -103,6 +105,7 @@ JAVA DSA
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0148-sort-list) |
 ## Binary Search
 |  |
@@ -125,6 +128,7 @@ JAVA DSA
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
