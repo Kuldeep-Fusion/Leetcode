@@ -15,6 +15,7 @@ JAVA DSA
 | [0239-sliding-window-maximum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -35,6 +36,7 @@ JAVA DSA
 | [0070-climbing-stairs](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0746-min-cost-climbing-stairs](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Stack
 |  |
