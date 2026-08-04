@@ -7,6 +7,7 @@ JAVA DSA
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0039-combination-sum) |
+| [0064-minimum-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -41,6 +42,7 @@ JAVA DSA
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -74,6 +76,7 @@ JAVA DSA
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0931-minimum-falling-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
