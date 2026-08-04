@@ -19,6 +19,7 @@ JAVA DSA
 | [0518-coin-change-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0518-coin-change-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1035-uncrossed-lines) |
 ## Backtracking
 |  |
@@ -48,6 +49,7 @@ JAVA DSA
 | [0300-longest-increasing-subsequence](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Stack
@@ -71,6 +73,7 @@ JAVA DSA
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0931-minimum-falling-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## Linked List
 |  |
 | ------- |
