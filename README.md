@@ -31,6 +31,7 @@ JAVA DSA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -39,6 +40,7 @@ JAVA DSA
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0300-longest-increasing-subsequence) |
