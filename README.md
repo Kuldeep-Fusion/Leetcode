@@ -31,6 +31,7 @@ JAVA DSA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -39,6 +40,7 @@ JAVA DSA
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0131-palindrome-partitioning) |
