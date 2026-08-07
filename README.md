@@ -115,6 +115,7 @@ JAVA DSA
 | [0021-merge-two-sorted-lists](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -238,6 +239,7 @@ JAVA DSA
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
@@ -262,4 +264,8 @@ JAVA DSA
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0518-coin-change-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
