@@ -12,6 +12,7 @@ JAVA DSA
 | [0085-maximal-rectangle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -267,5 +268,6 @@ JAVA DSA
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
