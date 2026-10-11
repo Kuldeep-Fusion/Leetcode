@@ -41,6 +41,7 @@ JAVA DSA
 | [0115-distinct-subsequences](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0242-valid-anagram) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
 |  |
@@ -112,6 +113,7 @@ JAVA DSA
 | [0160-intersection-of-two-linked-lists](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Recursion
 |  |
@@ -133,6 +135,7 @@ JAVA DSA
 | [0148-sort-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Merge Sort
 |  |
