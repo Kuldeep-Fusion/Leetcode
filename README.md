@@ -20,6 +20,7 @@ JAVA DSA
 | [0239-sliding-window-maximum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0518-coin-change-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0518-coin-change-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -116,6 +117,7 @@ JAVA DSA
 | [0208-implement-trie-prefix-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Recursion
 |  |
@@ -131,6 +133,7 @@ JAVA DSA
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +141,7 @@ JAVA DSA
 | [0215-kth-largest-element-in-an-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Merge Sort
 |  |
@@ -169,6 +173,7 @@ JAVA DSA
 | [0023-merge-k-sorted-lists](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -241,6 +246,7 @@ JAVA DSA
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
 |  |
 | ------- |
@@ -280,4 +286,12 @@ JAVA DSA
 | [0136-single-number](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0260-single-number-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
