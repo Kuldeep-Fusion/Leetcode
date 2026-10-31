@@ -7,6 +7,7 @@ JAVA DSA
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0064-minimum-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -105,6 +106,7 @@ JAVA DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -141,6 +143,7 @@ JAVA DSA
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0217-contains-duplicate) |
