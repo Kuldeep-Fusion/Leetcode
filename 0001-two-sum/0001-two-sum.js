@@ -3,27 +3,16 @@
  * @param {number} target
  * @return {number[]}
  */
-var twoSum = function(nums, target) {
-     let ans = [];
-    
-    function solve(idx, target, list) {
-        if (target === 0 && list.length === 2 ) {
-            ans.push(...list);
-            return;
-        }
-        if (idx === nums.length || list.length === 2) {
-            return;
-        }
+var twoSum = function(arr, target) {
+    let map = new Map();
 
-        list.push(idx);
-         if (solve(idx + 1, target - nums[idx], list)) {
-            return true;
-        }
+    for(let i = 0; i < arr.length; i++) {
+        let req = target - arr[i];
 
-        list.pop();
-        solve(idx + 1, target, list);
+        if(map.has(req)) {
+            return [map.get(req), i];
+        } else {
+            map.set(arr[i], i);
+        }
     }
-
-    solve(0, target, []);
-    return ans;
 };
