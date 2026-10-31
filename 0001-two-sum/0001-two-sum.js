@@ -4,13 +4,26 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
- 
-    for(let i =0; i<nums.length; i++){
-       for( let j = i+1; j<nums.length; j++){
-        if(nums[i] + nums[j] == target){
-            return [i, j];
+     let ans = [];
+    
+    function solve(idx, target, list) {
+        if (target === 0 && list.length === 2 ) {
+            ans.push(...list);
+            return;
         }
-       }
+        if (idx === nums.length || list.length === 2) {
+            return;
+        }
+
+        list.push(idx);
+         if (solve(idx + 1, target - nums[idx], list)) {
+            return true;
+        }
+
+        list.pop();
+        solve(idx + 1, target, list);
     }
-    return []; 
+
+    solve(0, target, []);
+    return ans;
 };
