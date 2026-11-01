@@ -12,6 +12,7 @@ JAVA DSA
 | [0039-combination-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0047-permutations-ii) |
 | [0064-minimum-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -41,6 +42,7 @@ JAVA DSA
 | [0039-combination-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0113-path-sum-ii) |
@@ -153,6 +155,7 @@ JAVA DSA
 | ------- |
 | [0015-3sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0217-contains-duplicate) |
