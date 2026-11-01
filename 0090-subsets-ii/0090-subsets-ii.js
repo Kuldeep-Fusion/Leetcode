@@ -10,7 +10,7 @@ var subsetsWithDup = function(nums) {
         ans.push([...path]);
 
         for(let i = start; i< nums.length; i++){
-            if(i>start && nums[i] === nums[i - 1]) continue;
+            if(i > start && nums[i] === nums[i - 1]) continue;
             path.push(nums[i]);
             backtrack(i +1);
             path.pop();
