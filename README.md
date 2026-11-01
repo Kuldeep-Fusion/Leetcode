@@ -12,6 +12,7 @@ JAVA DSA
 | [0039-combination-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0064-minimum-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -37,6 +38,7 @@ JAVA DSA
 | ------- |
 | [0039-combination-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -293,6 +295,7 @@ JAVA DSA
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0260-single-number-iii) |
