@@ -51,6 +51,7 @@ JAVA DSA
 | [0131-palindrome-partitioning](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [1079-letter-tile-possibilities](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## String
 |  |
@@ -62,6 +63,7 @@ JAVA DSA
 | [0131-palindrome-partitioning](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0242-valid-anagram) |
+| [1079-letter-tile-possibilities](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
 |  |
@@ -141,6 +143,7 @@ JAVA DSA
 | [0242-valid-anagram](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1079-letter-tile-possibilities](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Recursion
 |  |
 | ------- |
@@ -323,4 +326,5 @@ JAVA DSA
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1079-letter-tile-possibilities](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1079-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
