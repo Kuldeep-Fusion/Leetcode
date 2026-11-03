@@ -15,6 +15,7 @@ JAVA DSA
 | [0047-permutations-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0047-permutations-ii) |
 | [0064-minimum-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0090-subsets-ii) |
@@ -44,6 +45,7 @@ JAVA DSA
 | [0046-permutations](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -54,6 +56,7 @@ JAVA DSA
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -97,6 +100,7 @@ JAVA DSA
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0931-minimum-falling-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -218,6 +222,7 @@ JAVA DSA
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0112-path-sum) |
