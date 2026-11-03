@@ -50,6 +50,7 @@ JAVA DSA
 | [0113-path-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## String
 |  |
@@ -73,6 +74,7 @@ JAVA DSA
 | [0131-palindrome-partitioning](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0518-coin-change-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -280,6 +282,7 @@ JAVA DSA
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0231-power-of-two) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Memoization
 |  |
 | ------- |
