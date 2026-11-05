@@ -35,6 +35,7 @@ JAVA DSA
 | [0713-subarray-product-less-than-k](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0996-number-of-squareful-arrays](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1035-uncrossed-lines](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Backtracking
@@ -51,6 +52,7 @@ JAVA DSA
 | [0131-palindrome-partitioning](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0996-number-of-squareful-arrays](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1079-letter-tile-possibilities](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## String
@@ -82,6 +84,7 @@ JAVA DSA
 | [0518-coin-change-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0996-number-of-squareful-arrays](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1035-uncrossed-lines](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -145,6 +148,7 @@ JAVA DSA
 | [0242-valid-anagram](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0996-number-of-squareful-arrays](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1079-letter-tile-possibilities](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Recursion
 |  |
@@ -290,6 +294,7 @@ JAVA DSA
 | [0231-power-of-two](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0996-number-of-squareful-arrays](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 ## Memoization
 |  |
 | ------- |
@@ -323,6 +328,7 @@ JAVA DSA
 | [0136-single-number](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0260-single-number-iii) |
+| [0996-number-of-squareful-arrays](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -336,4 +342,8 @@ JAVA DSA
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Bitmask
+|  |
+| ------- |
+| [0996-number-of-squareful-arrays](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
