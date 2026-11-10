@@ -16,6 +16,5 @@ var isGoodArray = function(nums) {
         ans = gcd(ans, nums[i]);
     }
 
-
     return ans === 1;
 };
