@@ -52,6 +52,7 @@ JAVA DSA
 | [0131-palindrome-partitioning](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0401-binary-watch) |
 | [0996-number-of-squareful-arrays](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1079-letter-tile-possibilities](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -328,6 +329,7 @@ JAVA DSA
 | [0136-single-number](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0260-single-number-iii) |
+| [0401-binary-watch](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0401-binary-watch) |
 | [0996-number-of-squareful-arrays](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 ## Bucket Sort
 |  |
