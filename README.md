@@ -37,6 +37,7 @@ JAVA DSA
 | [0931-minimum-falling-path-sum](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0996-number-of-squareful-arrays](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1035-uncrossed-lines](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1035-uncrossed-lines) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Backtracking
 |  |
@@ -296,6 +297,7 @@ JAVA DSA
 | [0241-different-ways-to-add-parentheses](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0996-number-of-squareful-arrays](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0996-number-of-squareful-arrays) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 ## Memoization
 |  |
 | ------- |
@@ -348,4 +350,24 @@ JAVA DSA
 |  |
 | ------- |
 | [0996-number-of-squareful-arrays](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/0996-number-of-squareful-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Kuldeep-Fusion/Leetcode/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
